@@ -1,0 +1,415 @@
+{
+  "project_info": {
+    "project_number": "831542697844",
+    "firebase_url": "https://cursoandroidfirebase-21b49.firebaseio.com",
+    "project_id": "cursoandroidfirebase-21b49",
+    "storage_bucket": "cursoandroidfirebase-21b49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:cc095242d091a472",
+        "android_client_info": {
+          "package_name": "projeto.tavares.com.cursoandroidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-4d9dcvj5q5hacaig0rc061s4k3t062ql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projeto.tavares.com.cursoandroidfirebase",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:ec74daa393de071e",
+        "android_client_info": {
+          "package_name": "com.example.daniellopes.cursoandroidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-cc4aqnbbb19m2kmi99dq9esve8q9qjec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daniellopes.cursoandroidfirebase",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:bae7adb816722984",
+        "android_client_info": {
+          "package_name": "projeto.tavares.com.minhaconcessionaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-r0623m9iv12jq3mj2jl2so1e5ae896k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projeto.tavares.com.minhaconcessionaria",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:7d8af483cc33d8c3",
+        "android_client_info": {
+          "package_name": "whatsapp.cursoandroid.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-k7tb399kims8d9hhsbjpgtfss0artdbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "whatsapp.cursoandroid.com.whatsapp",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:f7f48a2eead56a2f",
+        "android_client_info": {
+          "package_name": "projeto.tavares.com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-sq85kj1lvesv9i3p9oldk6h2mvjmbktm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "projeto.tavares.com.firebase",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:8577044f147a5ff7",
+        "android_client_info": {
+          "package_name": "israel.tavares.com.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-hn9iplh330ko07naj670v06baj9342lm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "israel.tavares.com.whatsapp",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:6229d891d67d3449",
+        "android_client_info": {
+          "package_name": "com.example.bruno.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-gtbdgpoihfqjpopf3k1ga62o3qqpejle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.firebase",
+            "certificate_hash": "8553d4fa2e4fbb95a91cdb4f9f18b9cdec2935b2"
+          }
+        },
+        {
+          "client_id": "831542697844-9ottbmsg9sghk9kp88fvdjno18vson6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bruno.firebase",
+            "certificate_hash": "2bc0d58e48e32130fbc6a203ee5d2996b380d255"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:e481d16a02bd77c6",
+        "android_client_info": {
+          "package_name": "com.tavares.teste.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-ufpb046clba2i06eanumo5ud1mn5aqht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tavares.teste.firebase",
+            "certificate_hash": "8553d4fa2e4fbb95a91cdb4f9f18b9cdec2935b2"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831542697844:android:2ee36012b95d8d8b",
+        "android_client_info": {
+          "package_name": "teamappcreative.com.liveupdatestatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831542697844-odc2q56b55p26s33otltr4spqv5pl62v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "teamappcreative.com.liveupdatestatus",
+            "certificate_hash": "8553d4fa2e4fbb95a91cdb4f9f18b9cdec2935b2"
+          }
+        },
+        {
+          "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD32PtxEgmhPsXVEy5817tqW-MlNK_vA0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831542697844-tmjkkru6hvp4j1ujanit9honktfpjg1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
